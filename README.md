@@ -1,6 +1,4 @@
-Ahhh samajh gayi 😄 — tum chah rahi ho **sirf data / content** ready, jo main tumhare liye customize kar doon, taake tum GitHub README me paste kar sako, **output ke bina**.
 
-Yahan tumhara **data ready-to-use** hai:
 
 ---
 
