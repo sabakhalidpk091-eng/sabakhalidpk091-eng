@@ -1,7 +1,5 @@
 
 
----
-
 **About Me**
 Hi, I'm **Saba Khalid**, a Full-Stack Web Developer.
 I create high-quality, scalable web applications with clean, maintainable code and deliver efficient, user-friendly solutions.
